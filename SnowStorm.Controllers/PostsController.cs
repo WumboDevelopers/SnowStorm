@@ -1,12 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WumboBackend.Data;
-using WumboBackend.Models;
+using SnowStorm.Data;
+using SnowStorm.Models;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace WumboBackend.Controllers
+namespace SnowStorm.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
