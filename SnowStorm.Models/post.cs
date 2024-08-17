@@ -1,4 +1,4 @@
-namespace WumboBackend.Models
+namespace SnowStorm.Models
 {
     public class Post
     {
